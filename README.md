@@ -26,5 +26,5 @@ Na pasta ***HomePath\data\in*** (Pasta monitorada) você irá mover o arquivo .t
 003ç10ç[1-10-100,2-30-2.50,3-40-3.10]çPedro
 003ç08ç[1-34-10,2-33-1.50,3-40-0.10]çPaulo
 ```
-As informações são separadas pelo ```ç``` analisadas e é gerado um arquivo com o mesmo nome do arquivo de entrada no diretório ***HomePath\data\out***
+As informações são separadas pelo ```ç``` analisadas e é gerado um arquivo com o mesmo nome do arquivo de entrada no diretório ***HomePath\data\out*** com o relatório.
 
